@@ -18,7 +18,7 @@ bootstrap.min.css
 bootstrap.bundle.min.js
 ```
 
-(jquery.slim.min.js)[https://code.jquery.com/jquery-3.3.1.slim.min.js]
+[jquery.slim.min.js](https://code.jquery.com/jquery-3.3.1.slim.min.js)
 
 
 
